@@ -7,7 +7,7 @@ Steps:
 - 
 1. Checkout snapshot of project
 2. Implement described tasks
-3. Make zip snapshot with name \<first name>\_<last name>_<YYYY-MM-DD>.zip
+3. Make zip snapshot with name <first name>-<last name>-<YYYY-MM-DD>.zip
 4. Send snapshot to contact email 
 5. Wait feedback
 
