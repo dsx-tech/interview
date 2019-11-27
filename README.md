@@ -23,7 +23,7 @@ We allow some simplification for speed up of time for development:
 - any authorization is not required
  
 
-List of tasks:
+List of issues:
 -
 1. Build project 
 2. Add multithreading pool into TransferServiceImpl  
