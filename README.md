@@ -8,12 +8,12 @@ Steps:
 1. Checkout snapshot of project
 2. Implement described tasks
 3. Make zip snapshot with name \<first name>\_<last name>_<YYYY-MM-DD>.zip
-4. Sent snapshot to contact email 
+4. Send snapshot to contact email 
 5. Wait feedback
 
 Task:
 -
-Implement application with java 8, gradle, and some additional frameworks which provide REST endpoint for transfer money between accounts.
+Implement application (with java 8, gradle, and some additional frameworks) which provide REST endpoint for transfer money between accounts.
 Target:
 - Best performance in the multithreading environment
 - Data consistency at any time (non negative balances on accounts for example)
